@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: tvan262@yahoo.com
 copyright_name: tvan262
 description: > # this means to ignore newlines until "baseurl:"
-  "Whatever a man can do, a women can do better."
+  "Whatever a man can do, a woman can do better."
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: tvan262
 github_username:  tvan262
